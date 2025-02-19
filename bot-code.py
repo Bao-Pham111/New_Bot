@@ -1,8 +1,4 @@
 import os
-
-# Install dependencies automatically
-os.system("pip install -r requirements.txt")
-
 import discord
 import threading
 from flask import Flask
